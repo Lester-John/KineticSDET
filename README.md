@@ -1,6 +1,7 @@
 # Introduction 
 TODO: This is a web automation test performed by selenium web driver. Java langauge was use to write this test.
 The following test will open up https://www.saucedemo.com/ and it will validate all the products and descriptions and add them to cart.
+This is a Page Object Module framework, with every product as a page.
 
 The API test is also under the same project performed by rest-Assured and java. The test will to the following and validate responses.
 - Register Weather Station
